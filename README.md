@@ -3,11 +3,11 @@
 Caesar-Cipher is a simple web-based tool for encrypting and decrypting messages using the Caesar cipher algorithm. The Caesar cipher is a substitution cipher that shifts each letter in the plaintext by a specified number of positions in the alphabet. ✉️🔒
 
 ✨ Features
-🔑 Encrypt and decrypt messages using a custom shift value.
-🔤 Choose letter case: maintain original case, lowercase, or uppercase.
-❌ Remove or ignore foreign characters/symbols during encryption/decryption.
-💻 Simple user interface built with HTML and styled using CSS.
-🌐 Works directly in any modern web browser; no additional libraries required.
+- 🔑 Encrypt and decrypt messages using a custom shift value.
+- 🔤 Choose letter case: maintain original case, lowercase, or uppercase.
+- ❌ Remove or ignore foreign characters/symbols during encryption/decryption.
+- 💻 Simple user interface built with HTML and styled using CSS.
+- 🌐 Works directly in any modern web browser; no additional libraries required.
 
 📝 How to Use
 
