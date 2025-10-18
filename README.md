@@ -1,35 +1,34 @@
-<<<<<<< HEAD
-Caesar-Cipher
-Caesar Cipher Encryption/Decryption This project is a simple implementation of the Caesar cipher encryption and decryption algorithm using JavaScript, HTML, and CSS. The Caesar cipher is a substitution cipher that replaces each letter in the plaintext with a letter a certain number of positions down the alphabet.
+🛡️ Caesar-Cipher Encryption/Decryption Tool
 
-Usage
-To use the Caesar cipher encryption/decryption tool, follow these steps:
+Caesar-Cipher is a simple web-based tool for encrypting and decrypting messages using the Caesar cipher algorithm. The Caesar cipher is a substitution cipher that shifts each letter in the plaintext by a specified number of positions in the alphabet. ✉️🔒
 
-Clone the repository or download the source code.
-Open the index.html file in a web browser.
-Select the desired operation from the "Encrypt" or "Decrypt" radio button.
-Enter the desired shift value, which determines how many positions each letter will be shifted.
-Enter the desired modulo value, which determines the length of the alphabet.
-Select the letter case you want maintaincase, lowercase, and uppercase.
-Select the foreign key you want to ignore or remove, if you selected to remove it will remove symbols.
-Enter the text you want to encrypt or decrypt in the input field provided.
-Click the submit button.
-The result will be displayed in the output section.
-Examples
-Encryption If you want to encrypt the message "HELLO" with a shift of 3, the resulting ciphertext will be "KHOOR".
+✨ Features
+🔑 Encrypt and decrypt messages using a custom shift value.
+🔤 Choose letter case: maintain original case, lowercase, or uppercase.
+❌ Remove or ignore foreign characters/symbols during encryption/decryption.
+💻 Simple user interface built with HTML and styled using CSS.
+🌐 Works directly in any modern web browser; no additional libraries required.
 
-Decryption
-To decrypt the ciphertext "KHOOR" with a shift of 3, the original plaintext "HELLO" will be recovered.
+📝 How to Use
 
-Files
-The project consists of the following files:
+📂 Clone the repository or download the source code.
+- 🌐 Open index.html in a web browser.
+- 🔄 Select Encrypt or Decrypt.
+- 🔢 Enter the shift value and modulo value (length of the alphabet).
+- 🔤 Choose the letter case and whether to ignore or remove symbols.
+- ✉️ Enter your message in the input field.
+- ✅ Click Submit — the result will appear in the output section.
 
-index.html: The HTML file containing the user interface and JavaScript code.
-style.css: The CSS file for styling the user interface.
-script.js: The JavaScript file containing the implementation of the Caesar cipher algorithm.
-README.md: The readme file with instructions and information about the project.
-Compatibility
-This Caesar cipher encryption/decryption tool should work on most modern web browsers that support JavaScript. No additional libraries or frameworks are required.
-=======
-# Caesar-Cipher-Encryption-Decryption-Project
->>>>>>> 4a5f7950ab32aa202ef2776591dcd7d15a45344d
+🔍 Example
+- Encryption: "HELLO" with a shift of 3 → "KHOOR"
+- Decryption: "KHOOR" with a shift of 3 → "HELLO"
+
+📁 Files
+- index.html – User interface and main script
+- style.css – Styling for the interface
+- script.js – JavaScript implementation of the Caesar cipher
+- README.md – Project documentation and instructions
+
+💻 Compatibility
+- Works on most modern web browsers supporting JavaScript.
+- No external libraries or frameworks required.
