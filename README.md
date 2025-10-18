@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Caesar-Cipher
 Caesar Cipher Encryption/Decryption This project is a simple implementation of the Caesar cipher encryption and decryption algorithm using JavaScript, HTML, and CSS. The Caesar cipher is a substitution cipher that replaces each letter in the plaintext with a letter a certain number of positions down the alphabet.
 
@@ -29,3 +30,6 @@ script.js: The JavaScript file containing the implementation of the Caesar ciphe
 README.md: The readme file with instructions and information about the project.
 Compatibility
 This Caesar cipher encryption/decryption tool should work on most modern web browsers that support JavaScript. No additional libraries or frameworks are required.
+=======
+# Caesar-Cipher-Encryption-Decryption-Project
+>>>>>>> 4a5f7950ab32aa202ef2776591dcd7d15a45344d
